@@ -1,4 +1,4 @@
-function Deskription() {
+function Description() {
     return(
     <div>
         <h1>Sip Happens Café</h1>
@@ -7,4 +7,4 @@ function Deskription() {
     )
 };
 
-export default Deskription;
+export default Description;
